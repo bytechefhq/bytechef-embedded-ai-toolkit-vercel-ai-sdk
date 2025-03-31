@@ -1,0 +1,22 @@
+{
+  "name": "bytechef-embedded-ai-toolkit-vercel-ai-sdk",
+  "version": "1.0.0",
+  "description": "ByteChef Embedded AI Toolkit Sample",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.3",
+    "ai": "^4.2.6",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.2"
+  }
+}
